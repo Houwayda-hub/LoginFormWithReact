@@ -1,0 +1,57 @@
+  .App-header {
+      background-color: #282c34;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: calc(10px + 2vmin);
+      color: white;
+  }
+  
+  .App-link {
+      color: #FE4066;
+  }
+  
+  .submit-btn button {
+      background-color: #FE4066;
+      color: #FFF;
+      font-size: 16px;
+      height: 44px;
+      width: 100%;
+      border-radius: 0ch;
+  }
+  
+  .tip-signUp span {
+      display: block;
+      text-align: center;
+      font-size: 12px;
+  }
+  
+  a {
+      display: block;
+      color: #FE4066;
+      text-decoration: none;
+      cursor: pointer;
+      text-align: center;
+      font-size: 15px;
+  }
+  
+  p {
+      display: block;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+  }
+  
+  .bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      background-color: white;
+      width: 100%;
+      min-height: 100vh;
+      padding-bottom: 100px;
+      box-sizing: border-box;
+  }
